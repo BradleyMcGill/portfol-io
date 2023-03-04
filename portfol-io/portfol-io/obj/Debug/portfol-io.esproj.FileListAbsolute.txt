@@ -1,0 +1,2 @@
+C:\dev\Uni\DesignDevelopDeploy\portfol-io\portfol-io\portfol-io\obj\Debug\portfol-io.esproj.SuggestedBindingRedirects.cache
+C:\dev\Uni\DesignDevelopDeploy\portfol-io\portfol-io\portfol-io\obj\Debug\portfol-io.esproj.CoreCompileInputs.cache
